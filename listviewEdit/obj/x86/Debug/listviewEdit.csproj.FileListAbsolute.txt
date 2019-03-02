@@ -1,0 +1,15 @@
+E:\visual studio 2010\listviewEdit\listviewEdit\bin\Debug\listviewEdit.exe
+E:\visual studio 2010\listviewEdit\listviewEdit\bin\Debug\listviewEdit.pdb
+E:\visual studio 2010\listviewEdit\listviewEdit\obj\x86\Debug\MainWindow.baml
+E:\visual studio 2010\listviewEdit\listviewEdit\obj\x86\Debug\MainWindow.g.cs
+E:\visual studio 2010\listviewEdit\listviewEdit\obj\x86\Debug\App.g.cs
+E:\visual studio 2010\listviewEdit\listviewEdit\obj\x86\Debug\listviewEdit_MarkupCompile.cache
+E:\visual studio 2010\listviewEdit\listviewEdit\obj\x86\Debug\listviewEdit.g.resources
+E:\visual studio 2010\listviewEdit\listviewEdit\obj\x86\Debug\listviewEdit.Properties.Resources.resources
+E:\visual studio 2010\listviewEdit\listviewEdit\obj\x86\Debug\listviewEdit.csproj.GenerateResource.Cache
+E:\visual studio 2010\listviewEdit\listviewEdit\obj\x86\Debug\listviewEdit.exe
+E:\visual studio 2010\listviewEdit\listviewEdit\obj\x86\Debug\listviewEdit.pdb
+E:\visual studio 2010\listviewEdit\listviewEdit\obj\x86\Debug\AddPersonWindow.baml
+E:\visual studio 2010\listviewEdit\listviewEdit\obj\x86\Debug\AddPersonWindow.g.cs
+E:\visual studio 2010\listviewEdit\listviewEdit\obj\x86\Debug\Window1.baml
+E:\visual studio 2010\listviewEdit\listviewEdit\obj\x86\Debug\Window1.g.cs
